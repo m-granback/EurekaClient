@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>se.verran</groupId>
-    <artifactId>EurekaClient</artifactId>
+    <artifactId>APIGateway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>EurekaClient</name>
     <description>EurekaClient</description>
